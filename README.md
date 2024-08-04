@@ -1,2 +1,2 @@
 # turkish-word-anagram
-Returns the anagrams of the string that taken by user as an input
+Returns the anagrams of the word that taken by user as an input
